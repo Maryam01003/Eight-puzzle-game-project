@@ -1,0 +1,2 @@
+# No external dependencies needed beyond standard Python libraries (Tkinter is built-in, json/time/copy/random are standard).
+# If using an environment without Tkinter pre-installed (rare), add: tkinter (but usually not required).
